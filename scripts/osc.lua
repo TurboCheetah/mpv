@@ -82,7 +82,7 @@ local osc_styles = {
     rjno11line2 = "{\\blur0\\bord0\\1c&H101010\\3c&Hd4d4d4\\fs16\\fnmpv-osd-symbols}",
     rjno11line3 = "{\\blur0\\bord0\\1c&H101010\\3c&Hd4d4d4\\fs16\\fnmpv-osd-symbols}",
     rjno1box = "{\\rDefault\\blur0\\bord0\\1c&H101010\\3c&HF0F0F0}",	
-    rjno1timecodes = "{\\blur0\\bord0\\1c&H179c5a\\3c&Hd4d4d4\\fs13}",
+    rjno1timecodes = "{\\blur0\\bord0\\1c&Hff5d79\\3c&Hd4d4d4\\fs13}",
     rjno1timePosBar = "{\\blur0\\bord".. user_opts.tooltipborder .."\\1c&Heeeeee\\3c&H000000\\fs24}",
     rjno1vidtitleBar = "{\\blur0\\bord0\\1c&Heeeeee\\3c&Hd4d4d4\\fs13\\q2}",
 
